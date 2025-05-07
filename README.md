@@ -1,5 +1,5 @@
 # SMQ
-......
+......    
 1.COM serial port   
 2.USB port    
 3.UI
